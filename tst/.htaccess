@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+
+# quest 37
+deny from all
